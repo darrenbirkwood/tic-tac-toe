@@ -23,7 +23,6 @@ def print_board():
     print()
 
 def player_move(icon):
-
     while True:
         try:
             if icon == "X":
